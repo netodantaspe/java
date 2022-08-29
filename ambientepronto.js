@@ -1,0 +1,1 @@
+console.log("ambiente pronto para uso");
