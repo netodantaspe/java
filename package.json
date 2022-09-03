@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "aula do softexrecife",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netodantaspe/java.git"
+  },
+  "author": "netodantas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netodantaspe/java/issues"
+  },
+  "homepage": "https://github.com/netodantaspe/java#readme"
+}
